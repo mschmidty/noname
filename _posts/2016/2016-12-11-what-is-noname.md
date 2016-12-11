@@ -10,6 +10,7 @@ So what is this no name blog? To be honest, I don't really know yet. I started a
 And so we have No Name.  I don't know if that name will stick.  I just needed to get started. 
 
 The general theme of this blog will be:
->Ramblings in the rural American West.     
+
+> Ramblings in the rural American West.     
 
 [schmidtyworks]: http://www.schmidtyworks.com/
