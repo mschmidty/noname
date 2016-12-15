@@ -7,7 +7,7 @@ categories: politics
 
 A few podcasts that I think are worth your time if you want to know here smart people talk about the state of our country.  They are both farily non-partison. 
 
-##**[Ezra Klein show with Francis Fukuyama][1]**
+##[Ezra Klein show with Francis Fukuyama][1]
 
 This coherently describes many problems in government today.  Some excerpts: 
 
@@ -16,7 +16,7 @@ This coherently describes many problems in government today.  Some excerpts:
 > If you think about the problem in terms of identity, we have these people who used to be in the dominant culture in the country. And all of a sudden, all these other identity groups appear, and they’re getting affirmative action and seem to be getting government policy. And [they] say, “What about us?” Because being working class has put us at these huge disadvantages, objectively.
 I think that is the anxiety behind it, and you can’t just say, “It’s racism and bigotry.”
 
-##**[Ezra Klein show with Malcolm Gladwell][2]**
+##[Ezra Klein show with Malcolm Gladwell][2]
 
 Malcolm Gladwell has written some amazing books about how humans work.  If you haven't read any you should - Outliers is a good place to start. 
 
@@ -28,7 +28,7 @@ How long can this go on? At a certain point, we’re going to say: We need a new
 
 I had never thought about this before.  Maybe we should start over, build the internet over from the ground up. 
 
-##**[This American Life - 601 - Master of Her Domain...Name][3]**
+##[This American Life - 601 - Master of Her Domain...Name][3]
 
 As Americans we should not be upset about the fact that Hillary Clinton had a private server.  However, we should be very mad that she, and many of her predecessors, needed a server because of how bad our government handles Tech. 
 
