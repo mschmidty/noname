@@ -8,6 +8,7 @@ categories: politics
 A few podcasts that I think are worth your time if you want to know here smart people talk about the state of our country.  They are both farily non-partison. 
 
 **[Ezra Klein show with Francis Fukuyama][1]**
+
 This coherently describes many problems in government today.  Some excerpts: 
 
 > "I coined a phrase in the book — “vetocracy,” meaning “rule by veto.” And the broader argument is that the American political system has always made it very hard for the government to actually do things because it gives a lot of parts of the political system veto rights over what the system does."
@@ -16,6 +17,7 @@ This coherently describes many problems in government today.  Some excerpts:
 I think that is the anxiety behind it, and you can’t just say, “It’s racism and bigotry.”
 
 **[Ezra Klein show with Malcolm Gladwell][2]**
+
 Malcolm Gladwell has written some amazing books about how humans work.  If you haven't read any you should - Outliers is a good place to start. 
 
 > I think the internet, as it is presently configured, in 25 years or 50 years from now will seem like a very bizarre experiment gone awry. That the idea of building a system fundamentally for every human interaction that is incapable of defending itself is insane. I mean, insane
@@ -27,6 +29,7 @@ How long can this go on? At a certain point, we’re going to say: We need a new
 I had never thought about this before.  Maybe we should start over, build the internet over from the ground up. 
 
 **[This American Life - 601 - Master of Her Domain...Name][3]**
+
 As Americans we should not be upset about the fact that Hillary Clinton had a private server.  However, we should be very mad that she, and many of her predecessors, needed a server because of how bad our government handles Tech. 
 
 > "The way Hillary and her top aides dealt with her e-mails is indeed scandalous. It's just a totally different scandal than people thought." - Sean Cole
