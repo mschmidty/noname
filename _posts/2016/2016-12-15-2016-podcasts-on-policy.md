@@ -5,11 +5,11 @@ date:   2016-12-15
 categories: politics  
 ---
 
-A few podcasts that I think are worth your time if you want to know here smart people talk about the state of our country.  They are both farily non-partison. 
+A few podcasts that I think are worth your time. Somve very smart people here talking about the state of our country in fairly non-partison way.  
 
 ### [Ezra Klein show with Francis Fukuyama][1]
 
-This coherently describes many problems in government today.  Some excerpts: 
+This one, more than anything I've ever heard or read, coherently describes many problems in government today.  Some excerpts: 
 
 > "I coined a phrase in the book — “vetocracy,” meaning “rule by veto.” And the broader argument is that the American political system has always made it very hard for the government to actually do things because it gives a lot of parts of the political system veto rights over what the system does."
 

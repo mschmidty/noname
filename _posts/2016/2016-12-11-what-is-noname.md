@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is No Name"
+title:  "What is Sagebrush Altered"
 date:   2016-12-11 11:46:39
 categories: thesis  
 ---
