@@ -1,15 +1,17 @@
 # Site settings
 title: Sagebrush Altered | Ramblings in the rural American West
-email: mschmidty@gmail.com  
+email: mschmidty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Everything from my perspective in America.  
+  Everything from my perspective in America.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sagebrushaltered.com" # the base hostname & protocol for your site
-twitter_username: mjschmidty  
+twitter_username: mjschmidty
 github_username:  mschmidt
 
 # Build settings
 markdown: kramdown
+
+pagination:7;
 
 exclude: [
   .git,
