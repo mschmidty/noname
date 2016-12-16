@@ -11,7 +11,7 @@ github_username:  mschmidt
 # Build settings
 markdown: kramdown
 
-pagination:7;
+pagination: 7;
 
 exclude: [
   .git,
