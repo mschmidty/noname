@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who's to blame for our political tribalism"
+title:  "Who's to blame for our political tribalism?"
 date:   2016-12-16
 categories: politics
 comments: true  
