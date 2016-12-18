@@ -17,7 +17,7 @@ These conversations have brought me to the realization that not only did more pe
 2. *"If my view of the world is correct, why did these people vote for Trump?"*
 3. *"What does Trump's support mean for my future and the future of America"*
 
-##Is my view of the world correct?
+## Is my view of the world correct?
 
 The question: *"is my view of the world correct?"* is too large of a subject to cover as part of this post. 
 
