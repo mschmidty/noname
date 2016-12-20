@@ -4,6 +4,7 @@ title:  "Who's to blame for our political tribalism?"
 date:   2016-12-16
 categories: politics
 comments: true  
+published: false
 ---
 
 In the New York Times this morning was an [Op-Ed by a Midwesterner republican Talk Radio host, Charlie Sykes][nyt]. In the article Mr Sykes lements the current direction of the republican party and it's selection of Donald Trump. In particular, Mr. Sykes critiques what he sees as tribalism in both his party and politics in general in America.  
@@ -28,13 +29,15 @@ One thing I think is missed in the article, however, is why we are so tribal.  I
 
 I commend Mr. Sykes in his rebuke of his own party.  I do not, however, commend the fact that he will not and cannot see his own contribution to its current state.  How can you call a left leaning chancellor a "lefty" or consistently tweet about "Anti-Christian Bigotry and Rank Political Posturing" without realizing that you are directly fueling what Sykes calls "binary tribal[ism]".  
 
-We need to move away from the all too common: "The left did it and its bad" to the more meaningful "this idea is bad and this is why" approach. That does not mean that we can never attribute an idea to a party, it just means that we need to stop using political labels as a critique. 
+We need to move away from the all too common: "The left (or right) did it and its bad" to the more meaningful "this idea is bad and this is why" approach. That does not mean that we can never attribute an idea to a party or group, it just means that we need to stop using political labels as a critique. This does not just apply to 
 
-I find it horribly hypocritical that a man that has done so much to contribute to tribalism, is so irritated that it is occurring.  I would have hoped that in his article he would at least mention that he is partially responsible for his parties current state. To be fair, he is not the only one who has been pushing this one sided - "Binary" - world.  The left has [done it's fair share as well][paul k]. But if you look through tweets from commentators on the left, it is much harder to find the divisiveness that you see on the right. There is no equivalent to Rush Limbaugh on the left. And the left is far less likely to be scammed by fake news.  
+A few months back I was on a bike ride with a friend.  She exclaimed that she disliked religion because "religious people were against abortion".  Even though this was said in private, it struck me.  Religions are groups that are made up of people, they are not things themselves.  The people that make up a religion have a wide variety of opinions about abortion.  In grouping religious people and giving the group the opinion, you immediately attack a person twice. You attack them because of their supposed opinion and you attach the group that they are part of. You also are generalizing a group. In doing this you have created a situation where just calling yourself religious is bad because, in my friends mind, it implies that a person is against abortion. That may be the case for some, or even the majority, but it does not accurately describe the whole group. 
 
-And quite frankly Donald Trump campaigned on so many of the ideas that have been supported by the Republican party for decades, he just has taken them to an extreme.  The right has been fighting for tougher treatment "Islamic Terrorists", Trump recommends a ban on all Muslims entering the country. The right crows about immigrants ruining our country, Trump calls Mexicans rapists and drug dealers and promises to build a wall.  The right calls the left criminal and Trump says he'll lock Hillary up!  
+Similarly, Mr. Sykes attacks a the chancellor in his tweet above as a "lefty". He has gotten away from what really matters, the decision that the Chancellor has made. Instead, Mr. Sykes groups the chancellor, attributing the bad decision that she was making, to the group. Those that read the tweet think that the Chancellor is bad not because of the decision she has made but because she is a "Lefty". 
 
-The sad thing is, I believe that we need the rights ideas now more than ever.  Not the ones listed above, of course.  But we really need someone in on the conversation that doesn't think continued increases in spending are good all of the time. These ideas however have been squashed by the continued weponization of party politics. And unfortunately, I think now, we have a right leaning weapon as president.  
+Donald Trump is also a masterful generalizer.  His idea that we need to ban all Muslims from entering the country is a perfect example of binary tribalism. The statement implies that if you are not a Muslim, you are good and if you are a Muslim, you are bad.  Obviously, this could not be further from the truth.  Some Muslims do terrible things, yes, but so do some Christians, Buddhists and Atheists. The vast majority of the people in these groups are good people by almost anyones definition.  But when you group a bad portion, or bad decision with the entire group you undoubtedly do a disservice to reality and further the consolidate people into tribes.   
+
+It will be hard to stop our tendency to group but we must do it.  It is ruining our political discourse with each other.  
 
 
 
