@@ -7,7 +7,9 @@ comments: true
 published: false
 ---
 
-In the New York Times this morning was an [Op-Ed by a Midwestern republican Talk Radio host, Charlie Sykes][nyt]. In the article Mr. Sykes laments the current direction of the republican party and it's selection of Donald Trump. In particular, Mr. Sykes critiques what he sees as tribalism in both his party and politics in general in America.  
+In the New York Times this morning was an [Op-Ed by a Midwestern republican Talk Radio host, Charlie Sykes][nyt]. In the article, Mr. Sykes laments the current direction of his party.  The party that he thought he was a part of never would have elected Donald Trump to be their leader.
+
+Mr. Sykes credits what he sees as tribalism in both his party for this departure from the norms of his party.  
 
 > In this binary tribal world, where everything is at stake, everything is in play, there is no room for quibbles about character, or truth, or principles. If everything — the Supreme Court, the fate of Western civilization, the survival of the planet — depends on tribal victory, then neither individuals nor ideas can be determinative. I watched this play out in real time, as conservatives who fully understood the threat that Mr. Trump posed succumbed to the argument about the Supreme Court. As even Mr. Ryan discovered, neutrality was not acceptable; if you were not for Mr. Trump, then you were for Mrs. Clinton.
 
