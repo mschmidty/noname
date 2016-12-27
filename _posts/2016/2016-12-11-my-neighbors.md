@@ -36,15 +36,15 @@ While some of these assumptions still stand, they are far from the complete pict
 
 It's not that I think that everyone in America should stop having a political stance because we are all too dumb to vote.  I just think that if people were more willing to question there own beliefs, they would not be so hostile towards others beliefs. 
 
-##Why did people vote for Trump?
+## Why did people vote for Trump?
+
 I don't really know.  The one thing that I can tell you is, I don't believe Trump's supporters are bad people.  In fact (with only those in my community as evidence) I don't believe that Trump voters are any better or worse than Clinton/liberal voters.  Sure, some of Trumps supporters are crazy assholes ([exhibit A][a]), but I've met plenty of holier-than-thow liberals who are single minded assholes too (lots of people don't think twice about pushing for the end cattle ranching on public lands, effectively ending employment and a way of life for millions of Americans).
 
 Still it bothers me that a man that said so many terrible things was elected to lead our country.  What does this say to our children or other countries.  Sure I think we over do the politically correct culture, but not for the president.  Remember the president of the U.S. is supposed to be the leader of the free world.  Not the bad example. 
 
-##The future
-I keep trying to figure out what the next four years will look like.  And I'm very worried about those that have been chosen to be leaders in Trump's [cabinet][cabinet] (I'm particularly worried about the nations [open spaces and public lands][os]).  
+## The Future
 
-But I'm trying to keep an open mind.  This is a time, as liberals, we get to test if we are right or wrong in our world views.  After all there's a good argument to be made that there are too many regulations in this country and that these regulations may be hampering the development of new industries and technologies.  Just listen to this podcast with the CEO of stripe, [Patrick Collison][ezra klein show]. So maybe I've been wrong, maybe the Trump administration will be good for the U.S.?  Maybe he will be a disaster.  
+I keep trying to figure out what the next four years will look like.  And I'm very worried about those that have been chosen to be leaders in Trump's [cabinet][cabinet] (I'm particularly worried about the nations [open spaces and public lands][os]).  But I'm trying to keep an open mind.  This is a time, as liberals, we get to test if we are right or wrong in our world views.  After all there's a good argument to be made that there are too many regulations in this country and that these regulations may be hampering the development of new industries and technologies.  Just listen to this podcast with the CEO of stripe, [Patrick Collison][ezra klein show]. So maybe I've been wrong, maybe the Trump administration will be good for the U.S.?  Maybe he will be a disaster.  
 
 Regardless, now more than ever, it is important to remember that it is our neighbors who elected him.    
 
