@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Statistics Lost its Power"
+title:  "How Statistics Lost Their Power"
 date:   2017-01-21
 categories: politics statistics polling
 comments: true
