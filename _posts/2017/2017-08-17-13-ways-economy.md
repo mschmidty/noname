@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "13 Ways to Strengthen the US Economy"
-date:   2017-03-13
+date:   2017-08-13
 categories: economy
 comments: true
 published: true
