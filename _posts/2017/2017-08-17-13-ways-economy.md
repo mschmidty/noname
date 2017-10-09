@@ -7,7 +7,7 @@ comments: true
 published: true
 ---
 
-There's been a lot going on [lately][1] in America. In particular lot of [bad things][2] have been happening, and the news is filled with these bad things.  So I was delighted to read a short article by Noah Smith ([@Noahpinion][3]) on "*[13 Ways to Strengthen America's Economy]*".  It wasn't bashing anybody or raging about how f#*ked we are here in America.  Instead, it was an article that put forth 13 ideas that could (or could not depending on your view) move this country in a positive economic direction to discuss and debate.  Thanks Noah. You can find it [here][4].
+There's been a lot going on [lately][1] in America. In particular lot of [bad things][2] have been happening, and the news is filled with these bad things.  So I was delighted to read a short article by Noah Smith ([@Noahpinion][3]) on "*[13 Ways to Strengthen America's Economy][4]*".  It wasn't bashing anybody or raging about how f#*ked we are here in America.  Instead, it was an article that put forth 13 ideas that could (or could not depending on your view) move this country in a positive economic direction to discuss and debate.  Thanks Noah. You can find it [here][4].
 
 ## Stand Outs from The List
 
