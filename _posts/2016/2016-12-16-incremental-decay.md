@@ -4,7 +4,7 @@ title:  "Who's to blame for our political tribalism?"
 date:   2016-12-16
 categories: politics
 comments: true  
-published: false
+published: true
 ---
 
 In the New York Times this morning was an [Op-Ed by a Midwestern republican Talk Radio host, Charlie Sykes][nyt]. In the article, Mr. Sykes supports his stance as a member of #nevertrump and tries to figure out how his party supported someone who he despises.  To explain much of what he sees in his party, Mr. Sykes credits binary tribalism.  
