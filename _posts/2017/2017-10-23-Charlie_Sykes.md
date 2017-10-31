@@ -7,9 +7,11 @@ comments: true
 published: true
 ---
 
-I've been critical about Charlie Sykes in the past ([see here](http://sagebrushaltered.com/politics/2016/12/16/incremental-decay.html)). Mr. Sykes is a former conservative radio host who has come out, in a big way, against the Trump wing of the Republican party.  My criticism mainly stemmed that Mr. Sykes had fed the Trump wing of the party during his 23 years.  Coming out after such a catastrophe was good, but it did not negate his contributions. Despite my criticism, I continued to follow him on twitter and I occasionally read an article he wrote or an interview of him.  
+I've been critical about Charlie Sykes in the past ([see here](http://sagebrushaltered.com/politics/2016/12/16/incremental-decay.html)). Mr. Sykes is a former conservative radio host who has come out, in a big way, against the Trump wing of the Republican party.  My original criticism mainly stemmed from the fact that Mr. Sykes had fed the Trump wing of the party during his 23 years.  And only after Trump's election did he stop adding to the horribly putrid talk radio environment unique to the American right. It is good that he is now realizing his follies, but his follies have become catastrophic.  
 
-In following him and since writing my original article, I must say, I have come to admire Mr. Sykes.  I still don't agree with his politics, but in contrast to his radio show self he has found humility, often questioning his original beliefs openly.  I think questioning ones self and your political ideologies, regardless of your party affiliation, is a characteristic of  any good American. We should all follow in Mr. Sykes' lead.   
+Despite my criticism, I continued to follow him on twitter and I occasionally read an article he wrote or an interview of him.  
+
+In following him, and since writing my original article, I must say, I have come to admire Mr. Sykes.  I still don't agree with his politics, but in contrast to his radio show self he has found humility, often questioning his original beliefs openly.  I think questioning ones self and your political ideologies, regardless of your party affiliation, is a characteristic of  any good American. We should all follow in Mr. Sykes' lead.   
 
 Here's an excerpt of a recent interview of him in [Slate](http://www.slate.com/articles/news_and_politics/interrogation/2017/10/charlie_sykes_was_a_conservative_radio_star_then_trump_won.html):
 
