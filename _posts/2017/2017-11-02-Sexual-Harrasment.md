@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Sexual Harassment:America You're Not What I Thought"
+title:  "Sexual Harassment: America You're Not What I Thought"
 date:   2017-11-08
 categories: Personal
 comments: true
 published: true
 ---
 
-Over the last few weeks, everyday brings another allegation of sexual assault. For instance, after finding out last week that NPR's Senior Vice President for News [resigned over sexual harassment claims dating back 20 years][1], I open Google news to find that Dustin Hoffman is [now being accused][2] of sexually harassing by a TV producer. (the [interview of NPR CEO Jarl Mohn by Mary Louise Kelly][1] is amazing, do listen to the segment).  These allegations are in addition to recent stories about sexual harassment by Bill Cosby, Bill O'Reilly, Donald Trump, Harvey Weinstein, Kevin Spacey and, sadly, many more. 
+Everyday, it seems, brings another allegation of sexual assault. For instance, after finding out last week that NPR's Senior Vice President for News [resigned over sexual harassment claims dating back 20 years][1], I open Google news to find that Dustin Hoffman is [now being accused][2] of sexually harassing by a TV producer. (the [interview of NPR CEO Jarl Mohn by Mary Louise Kelly][1] is amazing, do listen to the segment).  These allegations are in addition to recent stories about sexual harassment by Bill Cosby, Bill O'Reilly, Donald Trump, Harvey Weinstein, Kevin Spacey and, sadly, many more. 
 
 As a man, I'm deeply saddened and appalled that my sex includes such vile creatures.  But I'm also surprised.  I'm disappointed to report, that I thought sexual harassment, while still around, was far less prevalent than it appears to be. Particularly in the workplace. I have had several conversation over the last year pushing the idea that we have reached the end of workplace explicit discrimination based on sex. Instead, I truly believed that we had entered an era where the gender wage gap was no longer a result of outright discrimination, but instead was a systemic issue.  I believed that women were paid less because they opted for more flexible work schedules instead of career advancement to take care of and have children.  There is [evidence for this sort of perspective][3], and I still think it's true. This was the conversation that I thought we should be having. How can we allow for more flexibility in the workplace so women and men can both provide for their children and still advance their careers. But after all of the sexual harassment claims and the [#MeToo][4] movement, my perspective has changed. While I still think that in some way we need to address workplace flexibility, I now am much more concerned with how women are treated in our society and I am appalled that I have given so much attention to the systemic wage-gap theory and avoided how poorly some women are directly treated by men. 
 
